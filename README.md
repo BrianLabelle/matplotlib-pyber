@@ -1,9 +1,9 @@
 
 Data Analytics - Boot Camp - Homework #5 - Matplotlib - Pyber | The Power of Plots | Data Analysis
 # Unit 5 | Assignment - The Power of Plots | Pyber
-<p align="center">
+
 ![banner](rice-cookers-hw-matplotlib.jpg)
-</p>
+
 
 # Data Analysis | Three observable trends based on the data
 
