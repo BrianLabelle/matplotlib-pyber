@@ -19,8 +19,8 @@ Because it was suggested that I possibly choose the assignment based on ‘the o
 
 
 # References:
-## General
-##### COLORS: Link : https://matplotlib.org/3.1.1/gallery/color/named_colors.html
+## General Referenced Links
+##### https://matplotlib.org/3.1.1/gallery/color/named_colors.html
 ##### https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.savefig.html
 ##### https://pythonspot.com/matplotlib-pie-chart/
 ##### https://stackoverflow.com/questions/2660319/putting-newline-in-matplotlib-label-with-tex-in-python
